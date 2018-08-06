@@ -8,3 +8,4 @@ require 'model/fornecedores.php';
 
 
 $c = new Controller();
+?>

@@ -4,3 +4,4 @@ class View {
 		include("templates/$model/$acao.php");
 	}
 }
+?>
